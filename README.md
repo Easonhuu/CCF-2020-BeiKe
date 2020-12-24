@@ -7,8 +7,8 @@ CCF 2020的比赛——[房产行业聊天问答匹配](https://www.datafountain
 :--:|:--:|:--:|:--:|:--:|
 1|BERT-wwm-ext|0|3|0.769
 2|RoBERTa-wwm-ext-large|0|3|0.770
-3|roberta-base|5|5|0.775
-4|roberta-large|5|5|0.776
+3|BERT-wwm-ext|5|5|0.775
+4|RoBERTa-wwm-ext-large|5|5|0.776
 
 可以后续尝试的trick：
 - [对抗训练](https://zhuanlan.zhihu.com/p/91269728)
