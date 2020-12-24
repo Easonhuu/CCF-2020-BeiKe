@@ -1,6 +1,7 @@
 # CCF-2020-BeiKe
 CCF 2020的比赛——[房产行业聊天问答匹配](https://www.datafountain.cn/competitions/474)  
 没有太多时间去尝试一些trick，提交次数也不多，只是简单尝试了一些中文预训练模型，主要是[哈工大讯飞联合实验室（HFL）](https://github.com/ymcui/Chinese-BERT-wwm)发布的。我用了其中的两个——BERT-wwm-ext和RoBERTa-wwm-ext-large，实验结果如下，权当是Baseline。
+初赛A榜-170/2985 B榜-157/2985
 
 &nbsp;|model|折数|epochs|result(%)
 :--:|:--:|:--:|:--:|:--:|
