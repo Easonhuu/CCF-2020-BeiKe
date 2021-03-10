@@ -5,6 +5,7 @@ CCF 2020的比赛——[房产行业聊天问答匹配](https://www.datafountain
 - 伪标签
 - [focal loss](https://zhuanlan.zhihu.com/p/49981234)
 - [模型融合](https://blog.csdn.net/weixin_39505820/article/details/111393476)
+
 也简单尝试了一些中文预训练模型，主要是[哈工大讯飞联合实验室（HFL）](https://github.com/ymcui/Chinese-BERT-wwm)发布的。我用了其中的两个——BERT-wwm-ext和RoBERTa-wwm-ext-large，实验结果如下，权当是Baseline。
 初赛A榜-170/2985 B榜-157/2985
 
